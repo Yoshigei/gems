@@ -1,0 +1,26 @@
+body {
+  background-image: url("/imagenes/mano con cuarzos.webp");
+}
+main {
+  background-image: 100%;
+}
+
+nav {
+  display: flex;
+  margin-left: 0;
+  background-color: rgba(248, 249, 249, 0.3);
+  justify-content: space-between;
+  height: 8em;
+  position: sticky;
+}
+nav ul {
+  display: flex;
+  padding: 5em 2em 5em 10em;
+}
+nav ul li {
+  list-style: none;
+  padding-right: 5em;
+}
+nav div img {
+  height: 100%;
+}
